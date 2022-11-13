@@ -4,27 +4,8 @@
     <title> Welcome </title>
         </head>    
         <body>    
-<header>    <h1 align="center">hasan <sub>1400</sub></h1>
-     <div class="door">
-         <form>
-        <input type="name" name="username" placeholder="Please enter your Email"required/>        <br>        
-<br>        
-<br>        
-<br>        
-    <input type="password" name="password" placeholder="Please enter your Password" required/>        
-<br>       
-<br>        
-<br> 
-<br>
-       
-        <button align="center">LOGIN</button>                 </form>         
-<br>         
-<br>
-<br>
-         <p align="center">Dont have an account?<b>Sign up</b></p>
-              </div>
-                  </header>            
-                  <style>body {
+<style>
+body {
     
 }
 input{
@@ -66,4 +47,24 @@ h1{
   from {top: 0px;}
   to {top: 20px;}
 }</style>
+<header>    <h1 align="center">hasan <sub>1400</sub></h1>
+     <div class="door">
+         <form>
+        <input type="name" name="username" placeholder="Please enter your Email"required/>        <br>        
+<br>        
+<br>        
+<br>        
+    <input type="password" name="password" placeholder="Please enter your Password" required/>        
+<br>       
+<br>        
+<br> 
+<br>
+       
+        <button align="center">LOGIN</button>                 </form>         
+<br>         
+<br>
+<br>
+         <p align="center">Dont have an account?<b>Sign up</b></p>
+              </div>
+                  </header>            
 </body></html>
